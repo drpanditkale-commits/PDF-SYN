@@ -1,0 +1,6 @@
+{
+  "name": "PDF Layout Translator",
+  "description": "Translate PDF documents into other languages while preserving original terminology and exact coordinates layout structure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
